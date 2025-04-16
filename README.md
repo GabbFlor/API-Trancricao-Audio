@@ -10,7 +10,7 @@ Para instalar a biblioteca que lida com as requisições HTTP (aceitando arquivo
     pip install fastapi uvicorn python-multipart
 ```
 
-Uvicorn serve para executar o servidor com FastAPI e executar as alterações rapidamente para teste
+Uvicorn serve para executar o servidor com FastAPI e executar as alterações rapidamente para teste:
 ```bash
     pip install uvicorn
 ```
